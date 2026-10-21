@@ -1,0 +1,6 @@
+{
+  "name": "Primera Comunión Loreany Zapata Zapata",
+  "description": "Invitación digital interactiva y elegante para la Primera Comunión de Loreany Zapata Zapata en Santa Rosa de Osos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
